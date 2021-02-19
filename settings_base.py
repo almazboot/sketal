@@ -7,7 +7,7 @@ class BaseSettings:
     CONF_CODE = ""  # Code for Callback Api (if you use it)
 
     SCOPE = 140489887  # Not private VK info
-    APP_ID = 5982451  # Not private VK info
+    APP_ID = 7765614  # Not private VK info
 
     CAPTCHA_KEY = ""  # Captcha solver's data
     CAPTCHA_SERVER = "rucaptcha"  # Captcha solver's data
