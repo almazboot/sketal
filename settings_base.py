@@ -1,14 +1,12 @@
 from plugins import *  # Importing all the plugins from plugins/ folder
 
 class BaseSettings:
-    USERS = ()  # Private VK info
+    USERS = (387258278)  # Private VK info
     PROXIES = ()  # Private proxies info
 
-    CONF_CODE = ""  # Code for Callback Api (if you use it)
-
+    CONF_CODE = "50e1d3704a0a5ae8b4676995843ec2ca723d244d7e8eb082575e9a3771e209bd19d3bfa41dc9d78e0f3df"  # Code for Callback Api (if you use it)
     SCOPE = 140489887  # Not private VK info
-    APP_ID = 5982451  # Not private VK info
-
+    APP_ID = 7765614  # Not private VK info
     CAPTCHA_KEY = ""  # Captcha solver's data
     CAPTCHA_SERVER = "rucaptcha"  # Captcha solver's data
 
